@@ -2,6 +2,7 @@ Flask
 gunicorn
 Jinja2
 MarkupSafe
+streamlit
 Werkzeug
 numpy
 scipy
