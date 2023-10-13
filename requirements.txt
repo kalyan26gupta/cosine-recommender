@@ -3,6 +3,7 @@ gunicorn
 Jinja2
 MarkupSafe
 streamlit
+ipython
 Werkzeug
 numpy
 scipy
